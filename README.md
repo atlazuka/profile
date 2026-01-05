@@ -40,7 +40,3 @@ I’m currently expanding into backend development with **NestJS and Spring Boot
   </a>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atlazuka&show_icons=true&theme=tokyonight" />
-</p>
