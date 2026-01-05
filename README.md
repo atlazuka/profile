@@ -1,10 +1,6 @@
 <h1 align="center">Hey, I'm Atlazuka</h1>
 <h3 align="center">Front-End Developer · Web & App Development</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atlazuka&theme=darkhub&no-frame=true&row=1" />
-</p>
-
 ---
 
 ### About
@@ -39,7 +35,7 @@ I’m currently expanding into backend development with **NestJS and Spring Boot
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="28" width="38" />
   </a>
 - Twitter:  
-  <a href="https://twitter.com/b1adez_dev">
+  <a href="https://twitter.com/atlazuka18">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="28" width="38" />
   </a>
 
