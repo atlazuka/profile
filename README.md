@@ -44,7 +44,3 @@ I’m currently expanding into backend development with **NestJS and Spring Boot
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atlazuka&show_icons=true&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atlazuka&theme=dark" />
-</p>
