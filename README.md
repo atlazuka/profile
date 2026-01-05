@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm b1adezz</h1>
-<h3 align="center">A Passionate Developer Focused on Web & App Development</h3>
+<h1 align="center">Hi 👋, I'm Atlazuka</h1>
+<h3 align="center">Front-End Developer | Web & App Development</h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=b1adezz" alt="b1adezz" />
-  </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=atlazuka&theme=darkhub&no-frame=true&row=1" />
 </p>
 
-- 🔭 I’m currently working on **A Discord Management Bot Called SentryShield**
-- 🌱 I’m currently learning **Rust, Lua, and advancing in my backend development skills**
-- 👯 I’m looking to collaborate on **websites & game developement apps**
-- 💬 Ask me about **bot development, Python, or building APIs**
-- 📫 How to reach me: **b1adezdeveloping@gmail.com**
-- ⚡ Fun fact: I automate *everything*
+---
+
+### 🚀 About Me
+- 🔭 Currently working on **Real-Time Game Anti-Cheat System**
+- 🌱 Learning **NestJS & Spring Boot** to strengthen backend skills
+- 👯 Open to collaborating on **web apps, game-related tools, and developer utilities**
+- 📫 Contact: **atlazuka1@gmail.com**
+- ⚡ Fun fact: *I enjoy building systems that prevents cheat-clients in game servers.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
